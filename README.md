@@ -7,3 +7,4 @@ Show the difference between merging and merge-rebasing a PR.
 4. Merge a PR with multiple commits
 
     1. first commit
+    2. second commit
