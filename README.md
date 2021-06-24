@@ -19,3 +19,4 @@ Show the difference between merging and merge-rebasing a PR.
 6. Squash a PR with multiple commits
 
     1. first commit
+    2. second commit
